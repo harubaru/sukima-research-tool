@@ -1,0 +1,21 @@
+== Sukima API Research Tool ==
+Date: 2022-03-10 20:36:50
+Model: c1-6B-8bit
+Summary: Analysis on effectiveness of best_of generation parameter.
+==============================
+
+best_of: 1 -- 2.25 seconds
+ I judge the dead.
+
+best_of: 2 -- 7.62 seconds
+ I judge people's sins and send them to their respective hells.
+
+best_of: 4 -- 12.38 seconds
+ I decide if people go to heaven or hell.
+
+best_of: 8 -- 31.50 seconds
+ I decide if people go to heaven or hell.
+
+best_of: 16 -- 62.85 seconds
+ I oversee all of Gensokyo's residents' afterlife.
+
